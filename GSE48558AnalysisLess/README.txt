@@ -1,0 +1,1 @@
+From each table only the ones with adj.P.Value < 0.05 and/or logFC < 1 are valueable.
